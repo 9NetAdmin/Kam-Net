@@ -1,0 +1,9 @@
+h1{color:tomato;}
+
+.sdiv{background-image: linear-gradient(90deg,rgb(80, 4, 4), blue,rgb(105, 52, 105));width:100%;height:auto;}
+
+iframe{width:80%;height:200px;display:block;margin-left:auto;margin-right:auto;padding:0px}
+
+body{background-image: linear-gradient(to right,black,rgb(58, 51, 41),rgb(20, 6, 6));}
+
+.nav{background-image: linear-gradient(to right,rgba(0, 0, 255, 0),rgb(13, 10, 48));}
