@@ -1,0 +1,30 @@
+
+.heart {margin-left: auto;margin-right: auto;display:block}
+
+.home {width:80%;margin-left:auto;margin-right: auto;display:block;}
+
+h1 {font-size: 300%;}
+
+p {font-size: 200%;}
+
+h1,h2,h3,h4,h5, p {text-align:center;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-style: italic;}
+        
+body {padding:0px;margin:0px;overflow-y: hidden;}
+
+.bardiv {max-width:300px;width:20%;min-width:150px;height:100vh;background-color:rgb(192, 22, 93);float:left;padding-top:1px;margin:0px;}
+
+.main {width:100hw;height:100vh;background-color:rgb(110, 15, 15);padding-top:1px;overflow:auto}
+
+img {width: 90%}
+
+.center {margin-left: auto;margin-right: auto;display:block}
+
+@media only screen and (orientation: portrait) {
+h1 {font-size: 50px;}  
+
+h2,h3,h4,h5, p {font-size:250%}
+
+.bardiv {min-width:100%;height: 90px;background-color: rgba(155, 24, 116, 0.267);float:none}
+.heart {display:none}
+.home {width:50px;margin-top: auto;margin-bottom: auto;}
+}
